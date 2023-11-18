@@ -7,11 +7,13 @@
 
 ## Credits:
 
-- [Support Groupe 1](https://t.me/SCeditionofficial)
+- [SC Support](https://t.me/SCeditionofficial)
 - [Update Channel](https://t.me/SC_Edition)
-- [Support Groupe 2](https://t.me/RN9_Indonesia)
+- [RN 9 Support (ID)](https://t.me/RN9_Indonesia)
 
+## Recovery:
 
+- [TWRP](https://t.me/SCeditionofficial)
 ## Flashing steps:
 ```bash
   1. Flash rom.
