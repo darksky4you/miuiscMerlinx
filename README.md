@@ -3,6 +3,7 @@
 
 <h2 align="center">MIUI SC | MERLIN</h2>
 <p align=""> → If settings apk crashes , please reboot once</p>
+<p align=""> → Give some time for smoothness</p>
 
 
 ## Credits:
