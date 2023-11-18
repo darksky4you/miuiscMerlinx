@@ -2,7 +2,9 @@
 ![Logo](https://github.com/darksky4you/miuiscMerlinx/blob/main/logo.png)
 
 <h2 align="center">MIUI SC | MERLIN</h2>
-![Support Groupe 1]( https://t.me/SCeditionofficial) 1[Update Channel]( https://t.me/SC_Edition)![Support Groupe 2](https://t.me/RN9_Indonesia)
+- ![Support Groupe 1]( https://t.me/SCeditionofficial)
+ ![Update Channel]( https://t.me/SC_Edition)
+ ![Support Groupe 2](https://t.me/RN9_Indonesia)
 
 
 ## Flashing steps:
