@@ -51,7 +51,8 @@
 
 ## Credits:
 
-- [𝙁𝙖𝙯█▓▒░🇵🇰🇵🇸](https://t.me/Fazokhan)
+- [∞㉻ sʜɪɴᴄʜᴜ ټシ](https://t.me/Shinchu_is_noob) {Owner}
+- [𝙁𝙖𝙯█▓▒░🇵🇰🇵🇸](https://t.me/Fazokhan) {Co-Owner}
 - [🅺🅰🆂🅷🅸 ⛧](https://t.me/kakashi1v1)
 - [Mods Center](https://t.me/kashis_cringey_stuffs)
 - [MIUI Mind](https://t.me/MindEditionUpdates)
