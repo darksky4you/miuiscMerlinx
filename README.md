@@ -2,6 +2,8 @@
 ![Logo](https://github.com/darksky4you/miuiscMerlinx/blob/main/logo.png)
 
 <h2 align="center">MIUI SC | MERLIN</h2>
+<p align="center">If settings apk crashes , please reboot once</p>
+
 
 ## Credits:
 
