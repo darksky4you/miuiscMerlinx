@@ -1,1 +1,2 @@
-All Details about MIUI SC x Merlin / Merlinx Project
+
+![Logo](https://github.com/darksky4you/miuiscMerlinx/blob/main/logo.png)
