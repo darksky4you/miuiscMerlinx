@@ -6,7 +6,7 @@
 <p align=""> → Give some time for smoothness</p>
 
 
-## Credits:
+## Supports:
 
 - [SC Support](https://t.me/SCeditionofficial)
 - [Update Channel](https://t.me/SC_Edition)
