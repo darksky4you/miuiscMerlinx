@@ -51,3 +51,9 @@
 - [MMETMA Mods](https://t.me/MMETMAmods)
 - [ReModeD UI](https://remodedui.github.io/)
 - More (I don't remember cause my account gone).
+
+## Feedback
+
+If you have any feedback, please reach out to us at [𝗠𝗜𝗨𝗜 𝗦𝗖 𝗘𝗗𝗜𝗧𝗜𝗢𝗡](https://t.me/SCeditionofficial)
+
+
