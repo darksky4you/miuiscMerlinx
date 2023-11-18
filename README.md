@@ -1,7 +1,7 @@
 
 ![Logo](https://github.com/darksky4you/miuiscMerlinx/blob/main/logo.png)
 
-
+<h2 align="center">MIUI SC | MERLIN</h2>
 
 ## Flashing steps:
 ```bash
