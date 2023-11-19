@@ -2,19 +2,21 @@
 ![Logo](https://github.com/darksky4you/miuiscMerlinx/blob/main/logo.png)
 
 <h2 align="center">MIUI SC | MERLIN</h2>
-<p align=""> → If settings apk crashes , please reboot once</p>
-<p align=""> → Give some time for smoothness</p>
+
+<p align="center"> → Give some time for smoothness</p>
+
+
 
 
 ## Supports:
-
-- [SC Support](https://t.me/SCeditionofficial)
+- [SUPPORT GROUPE](https://t.me/miuisc_rn9)
+- [SC Main Groupe](https://t.me/SCeditionofficial)
 - [Update Channel](https://t.me/SC_Edition)
 - [RN 9 Support (ID)](https://t.me/RN9_Indonesia)
 
 ## Recovery:
 
-- [TWRP](https://t.me/SCeditionofficial)
+- [TWRP](https://t.me/miuisc_rn9/18)
 ## Flashing steps:
 ```bash
   1. Flash rom.
@@ -67,6 +69,6 @@
 
 ## Feedback
 
-If you have any feedback, please reach out to us at [𝗠𝗜𝗨𝗜 𝗦𝗖 𝗘𝗗𝗜𝗧𝗜𝗢𝗡](https://t.me/SCeditionofficial)
+If you have any feedback, please reach out to us at [RN9 | MIUISC #MERLIN](https://t.me/miuisc_rn9)
 
 
