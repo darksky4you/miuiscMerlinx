@@ -3,7 +3,7 @@
 
 <h2 align="center">MIUI SC | MERLIN</h2>
 
-<p align="center"> → Give some time for smoothness</p>
+<p align="center"> Give some time for smoothness</p>
 
 
 
