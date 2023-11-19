@@ -5,6 +5,13 @@
 
 <p align="center"> Give some time for smoothness</p>
 
+## INFO:
+
+- DEVICE: REDMI NOTE 9 (MERLIN)
+- BASE: MIUI IN 13.0.5
+
+## Screenshot:
+- [TELEGRAM](https://t.me/miuisc_rn9/42)
 
 
 
@@ -67,9 +74,7 @@
 - [MMETMA Mods](https://t.me/MMETMAmods)
 - [ReModeD UI](https://remodedui.github.io/)
 - More (I don't remember cause my account gone).
-- 
-## Screenshot:
-- [TELEGRAM](https://t.me/miuisc_rn9/42)
+  
 
 
 ## Feedback
