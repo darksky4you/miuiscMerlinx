@@ -67,6 +67,9 @@
 - [MMETMA Mods](https://t.me/MMETMAmods)
 - [ReModeD UI](https://remodedui.github.io/)
 - More (I don't remember cause my account gone).
+- 
+## Screenshot:
+![App Screenshot](https://github.com/darksky4you/miuiscMerlinx/blob/main/RN9.gif)
 
 ## Feedback
 
