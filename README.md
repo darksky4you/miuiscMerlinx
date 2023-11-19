@@ -9,10 +9,10 @@
 
 
 ## Supports:
-- [SUPPORT GROUPE](https://t.me/miuisc_rn9)
-- [SC Main Groupe](https://t.me/SCeditionofficial)
-- [Update Channel](https://t.me/SC_Edition)
-- [RN 9 Support (ID)](https://t.me/RN9_Indonesia)
+- [💁‍♂️ SUPPORT GROUP](https://t.me/miuisc_rn9)
+- [💁‍♂️ SC Main Group](https://t.me/SCeditionofficial)
+- [💁‍♂️ Update Channel](https://t.me/SC_Edition)
+- [💁‍♂️ RN 9 Support (ID)](https://t.me/RN9_Indonesia)
 
 ## Recovery:
 
