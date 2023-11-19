@@ -26,7 +26,8 @@
   5. Reboot.
 ```
 
-
+## BUGS:
+- safetynet not fixed.
 
 ## Changelog:
 
