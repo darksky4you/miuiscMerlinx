@@ -69,6 +69,8 @@
 - More (I don't remember cause my account gone).
 - 
 ## Screenshot:
+- [TELEGRAM](https://t.me/miuisc_rn9/42?single)
+
 ![App Screenshot](https://github.com/darksky4you/miuiscMerlinx/blob/main/RN9.gif)
 
 ## Feedback
