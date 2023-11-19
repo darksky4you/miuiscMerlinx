@@ -71,7 +71,6 @@
 ## Screenshot:
 - [TELEGRAM](https://t.me/miuisc_rn9/42)
 
-![App Screenshot](https://github.com/darksky4you/miuiscMerlinx/blob/main/RN9.gif)
 
 ## Feedback
 
