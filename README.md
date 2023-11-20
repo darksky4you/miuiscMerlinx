@@ -24,13 +24,24 @@
 ## Recovery:
 
 - [TWRP](https://t.me/miuisc_rn9/18)
-## Flashing steps:
+## Flashing steps normal:
 ```bash
   1. Flash rom.
   2. Format data.
   3. Flash Recovery (If you was in MIUI 12.5).
   4. Flash Magisk (If you want.).
   5. Reboot.
+```
+
+## Flashing steps From Custom Rom:
+```bash
+  1. Flash Fw 13.0.1
+  2. Flash recovery s vendor
+  3. Reboot recovery
+  4. Flash rom.
+  5. Format data.
+  6. Flash Magisk (If you want.).
+  7. Reboot.
 ```
 
 ## BUGS:
