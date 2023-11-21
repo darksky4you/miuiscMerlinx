@@ -43,6 +43,23 @@
   6. Flash Magisk (If you want.).
   7. Reboot.
 ```
+::Bug Fix Changelog:
+```bash
+♾️ . Fix Permission problem.
+♾️ . Fix Camera problem .
+♾️ . Removed Pixel Props.
+♾️ . Replaced some props(Perf).
+
+  
+```
+::Download Fix Zip:
+⏬[GDRIVE](https://drive.google.com/file/d/1odrbfkZ8OIu_46EyGL_5lKyQjbsyA6Nh/view?usp=drive_link)
+
+
+
+
+
+
 
 ## BUGS:
 - safetynet not fixed.
