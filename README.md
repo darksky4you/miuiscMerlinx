@@ -21,7 +21,7 @@
 - [💁‍♂️ Update Channel](https://t.me/SC_Edition)
 - [💁‍♂️ RN 9 Support (ID)](https://t.me/RN9_Indonesia)
 
-![App Screenshot](https://github.com/darksky4you/miuiscMerlinx/blob/main/animated-update-image-0039.gif)
+![App Screenshot](https://github.com/darksky4you/miuiscMerlinx/blob/main/animated-update-image-0020.gif)
 
 ## ⬇️Download : 
 - [Encrepted](https://drive.google.com/file/d/1dcCMNUFuFRjqCuWrG8Yn7ZhvEp-guO-1/view?usp=drive_link)
