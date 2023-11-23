@@ -16,16 +16,14 @@
 
 
 ## Supports:
-- [💁‍♂️ SUPPORT GROUP](https://t.me/miuisc_rn9)
-- [💁‍♂️ SC Main Group](https://t.me/SCeditionofficial)
-- [💁‍♂️ Update Channel](https://t.me/SC_Edition)
+- [💁‍♂️ SUPPORT GROUP](https://t.me/mixos_rn9)
 - [💁‍♂️ RN 9 Support (ID)](https://t.me/RN9_Indonesia)
 
 ![App Screenshot](https://github.com/darksky4you/miuiscMerlinx/blob/main/animated-update-image-0020.gif)
 
 ## ⬇️Download : 
-- [Encrepted](https://drive.google.com/file/d/1dcCMNUFuFRjqCuWrG8Yn7ZhvEp-guO-1/view?usp=drive_link)
-- [Decrypted](https://drive.google.com/file/d/1JXT9BZbjqucrY9wcoUqcwSfwkGZn5Lfr/view?usp=drive_link)
+- [⏬ Encrepted](https://drive.google.com/file/d/1dcCMNUFuFRjqCuWrG8Yn7ZhvEp-guO-1/view?usp=drive_link)
+- [⏬ Decrypted](https://drive.google.com/file/d/1JXT9BZbjqucrY9wcoUqcwSfwkGZn5Lfr/view?usp=drive_link)
 
 
 ## Recovery:
@@ -59,7 +57,7 @@
 
   
 ```
-## Download Fix Zip:
+## Download Fix Zip (Only for old build):
 ⏬[GDRIVE](https://drive.google.com/file/d/1odrbfkZ8OIu_46EyGL_5lKyQjbsyA6Nh/view?usp=drive_link)
 
 
@@ -114,6 +112,6 @@
 
 ## Feedback
 
-If you have any feedback, please reach out to us at [RN9 | MIUISC #MERLIN](https://t.me/miuisc_rn9)
+If you have any feedback, please reach out to us at [RN9 | MIUISC #MERLIN](https://t.me/mixos_rn9)
 
 
