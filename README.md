@@ -28,7 +28,7 @@
 
 ## Recovery:
 
-- [TWRP](https://t.me/miuisc_rn9/18)
+- [TWRP](https://t.me/mixos_rn9/18)
 ## Flashing steps normal:
 ```bash
   1. Flash rom.
